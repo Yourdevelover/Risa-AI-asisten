@@ -18,4 +18,4 @@ Asisten AI pribadi Rivaldo — chatbot cerdas berbasis Puter.js + Google Gemini.
 
 ## Link
 
-- **Portfolio**: [github.com/Yourdevelover/Portfolio](https://github.com/Yourdevelover/Portfolio)
+- **Portfolio**: [github.com/Yourdevelover/PortfolioRivaldo](https://github.com/Yourdevelover/PortfolioRivaldo)
