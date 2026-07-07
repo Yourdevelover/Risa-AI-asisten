@@ -9,18 +9,19 @@ Chat interaktif dengan Risa yang mampu menjawab pertanyaan seputar profil, porto
 Struktur Proyek
 
 Risa-Asisten-AI-Rivaldo/
-  rapi/
-    public/
-    src/
-      App.jsx        → Komponen utama aplikasi React
-      index.css      → Styling global dengan CSS variables
-      main.jsx       → Entry point aplikasi
-    index.html       → Berkas HTML utama
-    package.json     → Daftar dependensi frontend
-    vite.config.js   → Konfigurasi Vite bundler
-  server.js          → Backend Express opsional
-  package.json       → Daftar dependensi root
-  vercel.json        → Konfigurasi deployment Vercel
+├── rapi/
+│   ├── public/
+│   ├── src/
+│   │   ├── App.jsx        → Komponen utama aplikasi React
+│   │   ├── index.css      → Styling global dengan CSS variables
+│   │   └── main.jsx       → Entry point aplikasi
+│   ├── index.html         → Berkas HTML utama
+│   ├── package.json       → Daftar dependensi frontend
+│   └── vite.config.js     → Konfigurasi Vite bundler
+├── server.js              → Backend Express opsional
+├── package.json           → Daftar dependensi root
+└── vercel.json            → Konfigurasi deployment Vercel
+
 
 
 Teknologi yang Digunakan
