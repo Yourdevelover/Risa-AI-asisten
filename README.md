@@ -1,4 +1,4 @@
-Risa AI Assistant
+Risa AI Assistan
 
 Asisten AI pribadi milik Rivaldo. Sebuah chatbot cerdas yang dibangun menggunakan Puter.js dan Google Gemini, dirancang untuk memberikan pengalaman interaksi yang modern, responsif, dan profesional.
 
