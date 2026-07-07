@@ -12,19 +12,24 @@ Risa-Asisten-AI-Rivaldo/
   rapi/
     public/
     src/
-      App.jsx        Komponen utama aplikasi React
-      index.css      Seluruh styling menggunakan CSS variables
-      main.jsx       Entry point aplikasi
-    index.html       Berkas HTML utama
-    package.json     Daftar dependensi frontend
-    vite.config.js   Konfigurasi Vite bundler
-  server.js          Backend Express opsional
-  package.json       Daftar dependensi root
-  vercel.json        Konfigurasi deployment Vercel
+      App.jsx        → Komponen utama aplikasi React
+      index.css      → Styling global dengan CSS variables
+      main.jsx       → Entry point aplikasi
+    index.html       → Berkas HTML utama
+    package.json     → Daftar dependensi frontend
+    vite.config.js   → Konfigurasi Vite bundler
+  server.js          → Backend Express opsional
+  package.json       → Daftar dependensi root
+  vercel.json        → Konfigurasi deployment Vercel
+
 
 Teknologi yang Digunakan
 
-Frontend dibangun dengan React dan Vite sebagai bundler cepat. Styling menggunakan CSS murni dengan CSS variables untuk mendukung tema terang dan gelap. Animasi ditangani oleh Motion React untuk transisi yang halus. Integrasi AI menggunakan Puter.js SDK yang terhubung ke model Google Gemini. Backend opsional menggunakan Express.js untuk kebutuhan tambahan.
+Frontend dibangun dengan React dan Vite sebagai bundler cepat. 
+Styling menggunakan CSS murni dengan CSS variables untuk mendukung tema terang dan gelap. 
+Animasi ditangani oleh Motion React untuk transisi yang halus. 
+Integrasi AI menggunakan Puter.js SDK yang terhubung ke model Google Gemini. 
+Backend opsional menggunakan Express.js untuk kebutuhan tambahan.
 
 Persyaratan Sistem
 
