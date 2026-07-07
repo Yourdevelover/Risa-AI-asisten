@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": null,
+  "buildCommand": "cd rapi && npm install && npm run build",
   "outputDirectory": ".",
   "framework": null
 }
