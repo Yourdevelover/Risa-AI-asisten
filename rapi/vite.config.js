@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     target: 'esnext',
     cssCodeSplit: true,
-    sourcemap: 'hidden',
+    sourcemap: false,
   },
   optimizeDeps: {
     include: ['react', 'react-dom', 'motion', '@heyputer/puter.js'],

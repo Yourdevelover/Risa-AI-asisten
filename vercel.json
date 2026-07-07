@@ -1,6 +1,6 @@
 {
   "version": 2,
   "buildCommand": "cd rapi && npm install && npm run build",
-  "outputDirectory": ".",
+  "outputDirectory": "rapi/dist",
   "framework": null
 }
